@@ -150,7 +150,7 @@ a:hover {
 	overflow: hidden;
 	background: #06565f;
 	border-radius: 15px;
-	padding: 5px;
+	padding: 0px;
 }
 
 .post .title {
@@ -161,13 +161,14 @@ a:hover {
 .post .title a {
 	border: none;
 	text-decoration: none;
-	color: #09b6bf;
+	color:#09b6bf;
 }
 
 .post .entry {
 	padding: 0px 0px 40px 0px;
 	text-align: justify;
 }
+
 /* Footer */
 
 #footer {
@@ -289,7 +290,7 @@ ul.style1 .first {
 	width: 88px;
 	padding: 5px 5px;
 	margin-right: 10px;
-	background: #09b6bf repeat;
+	background: #09b6bf  repeat;
 	border-radius: 5px;
 	color: #FFFFFF;
 	text-align: center;
